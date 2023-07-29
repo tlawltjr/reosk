@@ -7,8 +7,8 @@
 ### 👥 참여 팀원
 | 팀원 이름 | 담당 기능 |
 | --- | --- |
-| 심지석 | JPA, RDBMS , Controller, Service   |
-| 조정기 | View, Java Script&Ajax |
+| 심지석 | JPA&Hibernate, RDBMS(관계형) , Controller, Service   |
+| 조정기 | Viewer, Java Script&Ajax |
 
 ### 📝 프로젝트 설명
 자바와 스윙 GUI로 키오스크 프로젝트를 만들었으나 
