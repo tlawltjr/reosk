@@ -7,7 +7,7 @@
 ### 👥 참여 팀원
 | 팀원 이름 | 담당 기능 |
 | --- | --- |
-| 심지석 | JPA&Hibernate, RDBMS(관계형) , Controller, Service   |
+| 심지석 | JPA DB 설계 , Controller, Service   |
 | 조정기 | Viewer, Java Script&Ajax |
 
 ### 📝 프로젝트 설명
